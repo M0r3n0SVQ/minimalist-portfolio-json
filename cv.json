@@ -4,31 +4,25 @@
     "name": "Álvaro Moreno Morejón",
     "label": "Full-Stack developer with more than 15 years of experience & development content creator",
     "image": "https://media.licdn.com/dms/image/v2/D4E03AQHDzAJUDoobsg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1695724262624?e=1737590400&v=beta&t=HNSY7M-NJ1TLC5oOZiCEYpxkiX7LQl-8Z_L16zu1y3M",
-    "email": "miduga@gmail.com",
+    "email": "alvaro.moreno@a.vedrunasevillasj.es",
     "phone": "+34 688888888",
-    "url": "https://midu.dev",
-    "summary": "+15 years of experience as a web developer. Currently I am a content creator and development dommunicator. I live in Barcelona, Spain. I have worked in different environments: from accelerating the development of start-ups to leading teams in multinational companies.",
+    "summary": "Technician specialized in IT systems and software development with hands-on experience in logistics, inventory management, and technical support.",
     "location": {
       "address": "",
-      "postalCode": "08820",
-      "city": "el Prat de Llobregat",
+      "postalCode": "41005",
+      "city": "Sevilla",
       "countryCode": "ES",
       "region": "Spain"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
-      },
-      {
-        "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
+        "username": "Álvaro Moreno Morejón",
+        "url": "https://www.linkedin.com/in/%C3%A1lvaro-moreno-morej%C3%B3n-ba348828a/"
       },
       {
         "network": "GitHub",
-        "username": "midudev",
+        "username": "M0",
         "url": "https://github.com/midudev"
       }
     ]

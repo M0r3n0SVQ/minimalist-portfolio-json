@@ -1,14 +1,13 @@
-
 {
   "basics": {
     "name": "Álvaro Moreno Morejón",
-    "label": "Full-Stack developer with more than 15 years of experience & development content creator",
-    "image": "https://media.licdn.com/dms/image/v2/D4E03AQHDzAJUDoobsg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1695724262624?e=1737590400&v=beta&t=HNSY7M-NJ1TLC5oOZiCEYpxkiX7LQl-8Z_L16zu1y3M",
+    "label": "IT Technician and Software Developer",
+    "image": "",
     "email": "alvaro.moreno@a.vedrunasevillasj.es",
-    "phone": "+34 688888888",
+    "phone": "+34 664 614 200",
     "summary": "Technician specialized in IT systems and software development with hands-on experience in logistics, inventory management, and technical support.",
     "location": {
-      "address": "",
+      "address": "C/ Alberche 6B",
       "postalCode": "41005",
       "city": "Sevilla",
       "countryCode": "ES",
@@ -22,42 +21,70 @@
       },
       {
         "network": "GitHub",
-        "username": "M0",
-        "url": "https://github.com/midudev"
+        "username": "M0r3n0SVQ",
+        "url": "https://github.com/M0r3n0SVQ"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Web programming communicator",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
-      "endDate": null,
-      "summary": "Most watched development streamer in Spanish on Twitch. +1 million followers across all my social networks. Recognised by Google, Microsoft and GitHub for my impact on the development community.",
+      "name": "Ábaco (San Bernardo Train Station)",
+      "position": "Footfall Counter",
+      "startDate": "2023-11",
+      "endDate": "2023-11",
+      "summary": "Conducted precise foot traffic data collection for infrastructure planning. Ensured data accuracy through meticulous observation and recording.",
       "highlights": [
-        "Started the company"
+        "Ensured data accuracy through meticulous observation and recording.",
+        "Collaborated with team members to manage workload efficiently during peak hours.",
+        "Provided insights based on data trends to support infrastructure planning."
       ]
     },
     {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "I led a technical convergence between different products and migrated from a monolithic architecture to a more flexible and optimised one. I fostered best practices and performance culture improvements, as well as rapid delivery of value to users.",
+      "name": "El Corte Inglés (ECI Nervión & Duque)",
+      "position": "IT Systems Technician",
+      "startDate": "2023-01",
+      "endDate": "2023-10",
+      "summary": "Provided technical support and maintenance for computer systems and networks.",
       "highlights": [
-        "Started the company"
+        "Resolved hardware and software issues promptly to minimize downtime.",
+        "Conducted system updates and implemented new solutions to improve efficiency.",
+        "Ensured network stability and optimized configurations for performance."
       ]
     },
     {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "I developed a geolocated news platform and an API to consume the information. Scaled services to support the load of over hundreds of thousands of requests per day. Cut delivery times and deployments to production by half. Collaborated with Mozilla and Telefónica to develop the first FirefoxOS TV app.",
+      "name": "Nespresso Boutique, El Corte Inglés Nervión",
+      "position": "Stock Keeper",
+      "startDate": "2019-07",
+      "endDate": "2023-01",
+      "summary": "Managed inventory and stock control in the boutique.",
       "highlights": [
-        "Started the company"
+        "Monitored and tracked incoming and outgoing stock to ensure accurate inventory records.",
+        "Organized and maintained storage areas to optimize space and facilitate efficient stock retrieval.",
+        "Collaborated with the sales team to ensure product availability and timely restocking during peak periods."
+      ]
+    },
+    {
+      "name": "El Corte Inglés (ECI San Juan)",
+      "position": "IT Systems Technician (Internship)",
+      "startDate": "2021-09",
+      "endDate": "2021-12",
+      "summary": "Assisted in the installation and configuration of computer systems.",
+      "highlights": [
+        "Provided support for network troubleshooting and hardware maintenance.",
+        "Conducted updates and diagnostics to ensure system efficiency.",
+        "Documented technical issues and solutions to improve future response times."
+      ]
+    },
+    {
+      "name": "Ábaco (Santa Justa Train Station)",
+      "position": "Footfall Counter",
+      "startDate": "2022-11",
+      "endDate": "2022-11",
+      "summary": "Conducted precise foot traffic data collection for infrastructure planning.",
+      "highlights": [
+        "Ensured data accuracy through meticulous observation and recording.",
+        "Provided support to supervisors by preparing detailed reports of daily activity.",
+        "Adapted to different environments to maintain consistency in data collection."
       ]
     }
   ],
@@ -83,48 +110,58 @@
       ]
     }
   ],
-  "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "url": "https://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "Description…",
-    "highlights": [
-      "Awarded 'Volunteer of the Month'"
-    ]
-  }],
-  "education": [{
-    "institution": "Universitat Oberta de Catalunya",
-    "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Software Engineer",
-    "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
-    "score": "4.0",
-    "courses": [
-      "DB1101 - Basic SQL"
-    ]
-  }],
-  "awards": [{
-    "title": "Award",
-    "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
-  }],
-  "certificates": [{
-    "name": "Certificate",
-    "date": "2021-11-07",
-    "issuer": "Company",
-    "url": "https://certificate.com"
-  }],
-  "publications": [{
-    "name": "Publication",
-    "publisher": "Company",
-    "releaseDate": "2014-10-01",
-    "url": "https://publication.com",
-    "summary": "Description…"
-  }],
+  "volunteer": [
+    {
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universitat Oberta de Catalunya",
+      "url": "https://www.uoc.edu/portal/es/index.html",
+      "area": "Software Engineer",
+      "studyType": "Bachelor",
+      "startDate": "2003-01-01",
+      "endDate": "2009-01-01",
+      "score": "4.0",
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }
+  ],
   "skills": [
     {
       "name": "HTML",
@@ -214,13 +251,15 @@
       "fluency": "Advanced"
     }
   ],
-  "interests": [{
-    "name": "Wildlife",
-    "keywords": [
-      "Ferrets",
-      "Unicorns"
-    ]
-  }],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }
+  ],
   "projects": [
     {
       "name": "mars.codes",

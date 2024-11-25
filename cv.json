@@ -96,9 +96,9 @@
   ],
   "references": [
     {
-      "name": "Joaquin Borrego Fernández",
-      "type": "Academic Reference",
-      "url": "https://twitch.tv/midudev",
+      "name": "Jose Manuel Sánchez Del Pino",
+      "type": "Regional Manager",
+      "url": "https://www.example.com",
       "position": "Teacher at IES Vedruna and Software Developer at Babel.",
       "contact": [
         "Phone: +34611223345",
@@ -106,10 +106,10 @@
       ]
     },
     {
-      "name": "Alejandro Téllez",
-      "type": "Professional Reference",
-      "url": "https://twitch.tv/midudev",
-      "position": "Analyst at NTT DATA.",
+      "name": "Ana Moreno",
+      "type": "Boutique Manager",
+      "url": "https://www.example.com",
+      "position": "Former Boutique Manager, ECI Nervión",
       "contact": [
         "Phone: +34611223344",
         "Email: Va5q8@example.com"
@@ -131,17 +131,25 @@
   ],
   "education": [
     {
-      "institution": "Universitat Oberta de Catalunya",
-      "url": "https://www.uoc.edu/portal/es/index.html",
-      "area": "Software Engineer",
-      "studyType": "Bachelor",
-      "startDate": "2003-01-01",
-      "endDate": "2009-01-01",
-      "score": "4.0",
-      "courses": [
-        "DB1101 - Basic SQL"
-      ]
-    }
+    "institution": "Santa Joaquina de Vedruna",
+    "url": "https://www.vedrunasevillasj.es/",
+    "area": "Higher Technician in Multiplatform Application Development",
+    "studyType": "Higher Technician",
+    "startDate": "2023-01-01",
+    "endDate": "2025-01-01",
+    "score": "",
+    "courses": []
+  },
+  {
+    "institution": "IES Martínez Montañés",
+    "url": "https://www.juntadeandalucia.es/educacion/portals/web/ies-martinez-montanes",
+    "area": "Technician in Microcomputer Systems and Networks",
+    "studyType": "Technician",
+    "startDate": "2017-01-01",
+    "endDate": "2021-01-01",
+    "score": "",
+    "courses": []
+  }
   ],
   "awards": [
     {
@@ -268,66 +276,24 @@
   ],
   "projects": [
     {
-      "name": "mars.codes",
+      "name": "EnligshLearningApp",
       "isActive": true,
-      "description": "Interactive story with programming challenges to travel to Mars",
+      "description": "Test English Level",
       "highlights": [
-        "Choose your own adventure",
-        "In progress"
+        ""
       ],
-      "url": "https://mars.codes"
+      "url": "https://www.example.com",
+      "github": "https://github.com/M0r3n0SVQ/EnglishLearningApp"
     },
     {
-      "name": "AdventJS",
+      "name": "ProyectoAndroidF1",
       "isActive": true,
-      "description": "JavaScript programming challenges for every day of December until Christmas",
+      "description": "Project Android",
       "highlights": [
-        "+1 million visits",
-        "Multilanguage",
-        "JavaScript & TypeScript"
+        ""
       ],
-      "url": "https://advent.js/dev"
+      "url": "https://www.example.com",
+      "github": "https://github.com/M0r3n0SVQ/ProyectoAndroidF1"
     },
-    {
-      "name": "Codember",
-      "isActive": true,
-      "description": "Interactive programming game with challenges and secrets",
-      "highlights": [
-        "+2000 active users",
-        "Challenges for any language"
-      ],
-      "url": "https://codember.dev"
-    },
-    {
-      "name": "codi.link",
-      "isActive": true,
-      "description": "Playground of HTML, CSS and JavaScript code for sharing",
-      "highlights": [
-        "100k monthly visit",
-        "Developed by the community"
-      ],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
-    },
-    {
-      "name": "Pruebas Técnicas",
-      "isActive": true,
-      "description": "List of technical tests of companies to practice programming",
-      "highlights": [
-        "100% free",
-        "+500 community solutions"
-      ],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
-    },
-    {
-      "name": "miduConf",
-      "description": "Streaming programming conference for the Spanish-speaking community with top talks",
-      "highlights": [
-        "+15k tickets handed over",
-        "+50k live viewers"
-      ],
-      "url": "https://miduconf.com"
-    }
   ]
 }

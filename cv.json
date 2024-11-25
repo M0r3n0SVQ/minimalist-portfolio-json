@@ -5,7 +5,7 @@
     "image": "",
     "email": "alvaro.moreno@a.vedrunasevillasj.es",
     "phone": "+34 664 614 200",
-    "url": "https://alvaromoreno.dev", 
+    "url": "https://alvaromoreno.dev",
     "summary": "Technician specialized in IT systems and software development with hands-on experience in logistics, inventory management, and technical support.",
     "location": {
       "address": "C/ Alberche 6B",
@@ -39,7 +39,7 @@
         "Collaborated with team members to manage workload efficiently during peak hours.",
         "Provided insights based on data trends to support infrastructure planning."
       ],
-      "url": "https://example.com/experience1" 
+      "url": "https://example.com/experience1"
     },
     {
       "name": "El Corte Inglés (ECI Nervión & Duque)",
@@ -52,7 +52,7 @@
         "Conducted system updates and implemented new solutions to improve efficiency.",
         "Ensured network stability and optimized configurations for performance."
       ],
-      "url": "https://example.com/experience2" 
+      "url": "https://example.com/experience2"
     },
     {
       "name": "Nespresso Boutique, El Corte Inglés Nervión",
@@ -65,7 +65,7 @@
         "Organized and maintained storage areas to optimize space and facilitate efficient stock retrieval.",
         "Collaborated with the sales team to ensure product availability and timely restocking during peak periods."
       ],
-      "url": "https://example.com/experience3" 
+      "url": "https://example.com/experience3"
     },
     {
       "name": "El Corte Inglés (ECI San Juan)",
@@ -78,7 +78,7 @@
         "Conducted updates and diagnostics to ensure system efficiency.",
         "Documented technical issues and solutions to improve future response times."
       ],
-      "url": "https://example.com/experience4" 
+      "url": "https://example.com/experience4"
     },
     {
       "name": "Ábaco (Santa Justa Train Station)",
@@ -91,7 +91,7 @@
         "Provided support to supervisors by preparing detailed reports of daily activity.",
         "Adapted to different environments to maintain consistency in data collection."
       ],
-      "url": "https://example.com/experience5" 
+      "url": "https://example.com/experience5"
     }
   ],
   "references": [
@@ -113,187 +113,3 @@
       "contact": [
         "Phone: +34611223344",
         "Email: Va5q8@example.com"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Organization",
-      "position": "Volunteer",
-      "url": "https://organization.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Description…",
-      "highlights": [
-        "Awarded 'Volunteer of the Month'"
-      ]
-    }
-  ],
-  "education": [
-    {
-    "institution": "Santa Joaquina de Vedruna",
-    "url": "https://www.vedrunasevillasj.es/",
-    "area": "Higher Technician in Multiplatform Application Development",
-    "studyType": "Higher Technician",
-    "startDate": "2023-01-01",
-    "endDate": "2025-01-01",
-    "score": "",
-    "courses": []
-  },
-  {
-    "institution": "IES Martínez Montañés",
-    "url": "https://www.juntadeandalucia.es/educacion/portals/web/ies-martinez-montanes",
-    "area": "Technician in Microcomputer Systems and Networks",
-    "studyType": "Technician",
-    "startDate": "2017-01-01",
-    "endDate": "2021-01-01",
-    "score": "",
-    "courses": []
-  }
-  ],
-  "awards": [
-    {
-      "title": "Award",
-      "date": "2014-11-01",
-      "awarder": "Company",
-      "summary": "There is no spoon."
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Certificate",
-      "date": "2021-11-07",
-      "issuer": "Company",
-      "url": "https://certificate.com"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Publication",
-      "publisher": "Company",
-      "releaseDate": "2014-10-01",
-      "url": "https://publication.com",
-      "summary": "Description…"
-    }
-  ],
-  "skills": [
-    {
-      "name": "HTML",
-      "level": "Master",
-      "keywords": [
-        "Web development", "Frontend"
-      ]
-    },
-    {
-      "name": "CSS",
-      "level": "Master",
-      "keywords": [
-        "Web development", "Frontend", "Diseño Responsive"
-      ]
-    },
-    {
-      "name": "JavaScript",
-      "level": "Master",
-      "keywords": [
-        "Web development", "Frontend", "Backend", "Fullstack"
-      ]
-    },
-    {
-      "name": "Tailwind",
-      "level": "Advanced",
-      "keywords": [
-        "Web development", "Frontend", "CSS Framework", "Diseño Responsive"
-      ]
-    },
-    {
-      "name": "TypeScript",
-      "level": "Advanced",
-      "keywords": [
-        "Web development", "Frontend", "Backend", "JavaScript Superset"
-      ]
-    },
-    {
-      "name": "Node",
-      "level": "Advanced",
-      "keywords": [
-        "Web development", "Backend", "JavaScript", "Servidor"
-      ]
-    },
-    {
-      "name": "MySQL",
-      "level": "Advanced",
-      "keywords": [
-        "Bases de Datos", "SQL", "Database", "Backend"
-      ]
-    },
-    {
-      "name": "Git",
-      "level": "Advanced",
-      "keywords": [
-        "Version control", "Colaboración", "Source code"
-      ]
-    },
-    {
-      "name": "GitHub",
-      "level": "Advanced",
-      "keywords": [
-        "Version control", "Collaboration", "Source code", "Git"
-      ]
-    },
-    {
-      "name": "Next.js",
-      "level": "Advanced",
-      "keywords": [
-        "Web development", "Frontend", "React Framework", "SSR", "Static Generation"
-      ]
-    },
-    {
-      "name": "React",
-      "level": "Advanced",
-      "keywords": [
-        "Web development", "Frontend", "JavaScript Library", "UI"
-      ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "Spanish",
-      "fluency": "Native speaker"
-    },
-    {
-      "language": "English",
-      "fluency": "Advanced"
-    }
-  ],
-  "interests": [
-    {
-      "name": "Wildlife",
-      "keywords": [
-        "Ferrets",
-        "Unicorns"
-      ]
-    }
-  ],
-  "projects": [
-    {
-      "name": "EnligshLearningApp",
-      "isActive": true,
-      "description": "Test English Level",
-      "highlights": [
-        ""
-      ],
-      "url": "https://www.example.com",
-      "github": "https://github.com/M0r3n0SVQ/EnglishLearningApp"
-    },
-    {
-      "name": "ProyectoAndroidF1",
-      "isActive": true,
-      "description": "Project Android",
-      "highlights": [
-        ""
-      ],
-      "url": "https://www.example.com",
-      "github": "https://github.com/M0r3n0SVQ/ProyectoAndroidF1"
-    },
-  ]
-}

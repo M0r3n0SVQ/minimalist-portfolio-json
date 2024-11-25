@@ -5,6 +5,7 @@
     "image": "",
     "email": "alvaro.moreno@a.vedrunasevillasj.es",
     "phone": "+34 664 614 200",
+    "url": "https://alvaromoreno.dev", 
     "summary": "Technician specialized in IT systems and software development with hands-on experience in logistics, inventory management, and technical support.",
     "location": {
       "address": "C/ Alberche 6B",
@@ -32,12 +33,13 @@
       "position": "Footfall Counter",
       "startDate": "2023-11",
       "endDate": "2023-11",
-      "summary": "Conducted precise foot traffic data collection for infrastructure planning. Ensured data accuracy through meticulous observation and recording.",
+      "summary": "Conducted precise foot traffic data collection for infrastructure planning.",
       "highlights": [
         "Ensured data accuracy through meticulous observation and recording.",
         "Collaborated with team members to manage workload efficiently during peak hours.",
         "Provided insights based on data trends to support infrastructure planning."
-      ]
+      ],
+      "url": "https://example.com/experience1" 
     },
     {
       "name": "El Corte Inglés (ECI Nervión & Duque)",
@@ -49,7 +51,8 @@
         "Resolved hardware and software issues promptly to minimize downtime.",
         "Conducted system updates and implemented new solutions to improve efficiency.",
         "Ensured network stability and optimized configurations for performance."
-      ]
+      ],
+      "url": "https://example.com/experience2" 
     },
     {
       "name": "Nespresso Boutique, El Corte Inglés Nervión",
@@ -61,7 +64,8 @@
         "Monitored and tracked incoming and outgoing stock to ensure accurate inventory records.",
         "Organized and maintained storage areas to optimize space and facilitate efficient stock retrieval.",
         "Collaborated with the sales team to ensure product availability and timely restocking during peak periods."
-      ]
+      ],
+      "url": "https://example.com/experience3" 
     },
     {
       "name": "El Corte Inglés (ECI San Juan)",
@@ -73,7 +77,8 @@
         "Provided support for network troubleshooting and hardware maintenance.",
         "Conducted updates and diagnostics to ensure system efficiency.",
         "Documented technical issues and solutions to improve future response times."
-      ]
+      ],
+      "url": "https://example.com/experience4" 
     },
     {
       "name": "Ábaco (Santa Justa Train Station)",
@@ -85,27 +90,28 @@
         "Ensured data accuracy through meticulous observation and recording.",
         "Provided support to supervisors by preparing detailed reports of daily activity.",
         "Adapted to different environments to maintain consistency in data collection."
-      ]
+      ],
+      "url": "https://example.com/experience5" 
     }
   ],
   "references": [
     {
-      "name": "Jose Manuel Sánchez Del Pino",
-      "type": "Regional Manager",
-      "url": "https://www.example.com",
-      "position": "Regional Manager - Western Andalucia (ECI Nervión, Duque & Córdoba)",
+      "name": "Joaquin Borrego Fernández",
+      "type": "Academic Reference",
+      "url": "https://twitch.tv/midudev",
+      "position": "Teacher at IES Vedruna and Software Developer at Babel.",
       "contact": [
-        "Phone: +34 611 223 345",
+        "Phone: +34611223345",
         "Email: VY5q8@example.com"
       ]
     },
     {
-      "name": "Ana Moreno",
-      "type": "Boutique Manager",
-      "url": "https://www.example.com",
+      "name": "Alejandro Téllez",
+      "type": "Professional Reference",
+      "url": "https://twitch.tv/midudev",
       "position": "Analyst at NTT DATA.",
       "contact": [
-        "Phone: +34611 223 344",
+        "Phone: +34611223344",
         "Email: Va5q8@example.com"
       ]
     }
@@ -124,23 +130,19 @@
     }
   ],
   "education": [
-  {
-    "institution": "I.E.S. Martínez Montañés",
-    "area": "Microcomputer Systems and Networks",
-    "studyType": "Technician",
-    "startDate": "2017",
-    "endDate": "2021",
-    "summary": "Technician in Microcomputer Systems and Networks."
-  },
-  {
-    "institution": "Santa Joaquina de Vedruna",
-    "area": "Multiplatform Application Development",
-    "studyType": "Higher Technician",
-    "startDate": "2023",
-    "endDate": "2025",
-    "summary": "Higher Technician in Multiplatform Application Development."
-  }
-],
+    {
+      "institution": "Universitat Oberta de Catalunya",
+      "url": "https://www.uoc.edu/portal/es/index.html",
+      "area": "Software Engineer",
+      "studyType": "Bachelor",
+      "startDate": "2003-01-01",
+      "endDate": "2009-01-01",
+      "score": "4.0",
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
+    }
+  ],
   "awards": [
     {
       "title": "Award",
@@ -250,6 +252,10 @@
       "language": "Spanish",
       "fluency": "Native speaker"
     },
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    }
   ],
   "interests": [
     {
@@ -262,24 +268,66 @@
   ],
   "projects": [
     {
-      "name": "ProyectoAndroidF1",
+      "name": "mars.codes",
       "isActive": true,
-      "description": "Project F1",
+      "description": "Interactive story with programming challenges to travel to Mars",
       "highlights": [
-        "",
+        "Choose your own adventure",
+        "In progress"
       ],
-      "url": "https://www.example.com",
-      "github": "https://github.com/M0r3n0SVQ/ProyectoAndroidF1"
+      "url": "https://mars.codes"
     },
     {
-      "name": "EnglishLearningApp",
+      "name": "AdventJS",
       "isActive": true,
-      "description": "Test English Level",
+      "description": "JavaScript programming challenges for every day of December until Christmas",
       "highlights": [
-        "",
+        "+1 million visits",
+        "Multilanguage",
+        "JavaScript & TypeScript"
       ],
-      "url": "https://www.example.com",
-      "github": "https://github.com/M0r3n0SVQ/EnglishLearningApp"
+      "url": "https://advent.js/dev"
     },
+    {
+      "name": "Codember",
+      "isActive": true,
+      "description": "Interactive programming game with challenges and secrets",
+      "highlights": [
+        "+2000 active users",
+        "Challenges for any language"
+      ],
+      "url": "https://codember.dev"
+    },
+    {
+      "name": "codi.link",
+      "isActive": true,
+      "description": "Playground of HTML, CSS and JavaScript code for sharing",
+      "highlights": [
+        "100k monthly visit",
+        "Developed by the community"
+      ],
+      "url": "https://codi.link",
+      "github": "https://github.com/midudev/codi.link"
+    },
+    {
+      "name": "Pruebas Técnicas",
+      "isActive": true,
+      "description": "List of technical tests of companies to practice programming",
+      "highlights": [
+        "100% free",
+        "+500 community solutions"
+      ],
+      "url": "https://pruebastecnicas.com",
+      "github": "https://github.com/midudev/pruebas-tecnicas"
+    },
+    {
+      "name": "miduConf",
+      "description": "Streaming programming conference for the Spanish-speaking community with top talks",
+      "highlights": [
+        "+15k tickets handed over",
+        "+50k live viewers"
+      ],
+      "url": "https://miduconf.com"
+    }
   ]
 }
